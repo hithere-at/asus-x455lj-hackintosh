@@ -13,6 +13,7 @@
 - Ethernet: Realtek RTL8111
 - WiFi: Qualcomm Atheros AR956x
 - Touchpad: Focaltech PS/2
+- Bootloader: OpenCore 0.9.9 RELEASE
 
 ## What doesnt work?
 - Bluetooth
